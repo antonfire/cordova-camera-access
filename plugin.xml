@@ -3,7 +3,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
            id="com.antOnFire.camera-access"
-      version="0.1">
+      version="0.0.1">
 
     <name>Check access to camera on a device</name>
     <description>Camera access plugin for cordova by antOnFire</description>
