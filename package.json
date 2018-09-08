@@ -1,4 +1,14 @@
 {
    "name": "com.antOnFire.camera-access",
-   "version": "0.0.1"
+   "version": "0.0.1",
+   "cordova": {
+    "id": "com.antOnFire.camera-access",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonfire/cordova-camera-access.git"
+   }
 }
